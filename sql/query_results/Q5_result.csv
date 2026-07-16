@@ -1,0 +1,21 @@
+specialty,region,total_rx,total_calls,rx_per_call
+Neurology,Midwest,1636446.0,4452,367.58
+Cardiology,Northeast,1750092.0,5196,336.82
+Endocrinology,South,919771.0,2772,331.81
+Oncology,Midwest,1319894.0,4032,327.35
+Endocrinology,Midwest,1098179.0,3360,326.84
+Endocrinology,West,899683.0,2844,316.34
+Neurology,South,1577373.0,5124,307.84
+Endocrinology,Northeast,1117914.0,3636,307.46
+Primary Care,South,3033158.0,10104,300.19
+Oncology,South,874944.0,3084,283.7
+Primary Care,Northeast,2505066.0,9060,276.5
+Neurology,West,719441.0,2604,276.28
+Oncology,West,1344523.0,4944,271.95
+Primary Care,West,3042386.0,11196,271.74
+Primary Care,Midwest,2596266.0,9852,263.53
+Cardiology,South,968624.0,3684,262.93
+Oncology,Northeast,694087.0,2688,258.22
+Cardiology,Midwest,1277503.0,5220,244.73
+Neurology,Northeast,1046643.0,4548,230.13
+Cardiology,West,672274.0,3660,183.68
